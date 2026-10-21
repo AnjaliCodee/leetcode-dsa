@@ -2,5 +2,6 @@
 My DSA practice- Leetcode solutions, patterns, and learnings.
 
 **Daily Goal: Minimum 2 or 3 problem solved per day
-**Strategy: Spend no more than 20 min struggling on single problem.
+
+**Strategy: Spend no more than 20 min struggling on single problem.  
             Study the pattern and write the code.
