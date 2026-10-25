@@ -12,3 +12,7 @@ Strategy: 📈
 -Spend no more than 20 min struggling on single problem.   
 -Study the pattern and write the code.  
 -Start with the brute-force approach. 
+
+
+🔥The Mission
+Code efficiently, Improve daily.
