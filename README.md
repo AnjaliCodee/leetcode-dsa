@@ -15,4 +15,5 @@ Strategy: 📈
 
 
 🔥The Mission
-Code efficiently, Improve daily.
+Code efficiently, Improve daily. 
+Practice more endlessly.
