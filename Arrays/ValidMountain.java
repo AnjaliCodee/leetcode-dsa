@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public boolean validMountainArray(int[] arr) {
         int i=0,n=arr.length;
