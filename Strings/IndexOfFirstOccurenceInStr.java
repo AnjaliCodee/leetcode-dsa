@@ -1,5 +1,4 @@
 package Strings;
-package Arrays;
 
 class Solution5 {
     public int strStr(String haystack, String needle) {
@@ -28,7 +27,7 @@ class Solution5 {
 
 //Optimal Solution
 
-// class Solution {
+// class Solution6 {
 //     public int strStr(String haystack, String needle) {
 //         return haystack.indexOf(needle);
 //     }
