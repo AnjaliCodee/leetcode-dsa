@@ -1,4 +1,4 @@
-package Strings;
+
 
 /**
  * @param {number} num
