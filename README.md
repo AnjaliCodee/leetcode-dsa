@@ -9,7 +9,7 @@ Daily Goal: 📌
 
 ##
 Strategy: 📈  
--Spend no more than 20 min struggling on single problem.   
+-Spend no more than 30 min struggling on single problem.   
 -Study the pattern and write the code.  
 -Start with the brute-force approach. 
 
