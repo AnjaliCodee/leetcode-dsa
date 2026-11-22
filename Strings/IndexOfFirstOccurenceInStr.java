@@ -1,4 +1,4 @@
-package Strings;
+
 
 class Solution5 {
     public int strStr(String haystack, String needle) {

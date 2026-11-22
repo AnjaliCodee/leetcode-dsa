@@ -1,4 +1,4 @@
-package Strings;
+
 
 class Pivot{
     public int pivotIndex(int[] nums) {
