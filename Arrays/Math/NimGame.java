@@ -1,4 +1,4 @@
-package Arrays.Math;
+
 
 class Solution {
     public boolean canWinNim(int n) {
